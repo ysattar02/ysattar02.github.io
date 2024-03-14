@@ -1,3 +1,11 @@
 body{
     height: 100%;
 }
+.button_container{
+    display: flex;
+    justify-content: center; /* Horizontal Alignment */
+    align-items: center; /* Vertical Alignent */
+}
+.button_container button{
+    margin-right: 5px;
+}
